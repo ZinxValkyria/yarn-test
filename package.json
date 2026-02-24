@@ -1,12 +1,13 @@
 {
-  "name": "yarn-test-app",
+  "name": "yarn-test-fresh",
   "version": "1.0.0",
-  "description": "Minimal Yarn project for testing workflow",
+  "description": "Fresh Yarn test",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "license": "MIT"
 }
